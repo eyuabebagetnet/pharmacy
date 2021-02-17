@@ -1,0 +1,86 @@
+h1{
+    color:#52107e;
+    background-color:rgb(228, 221, 218);
+    background-image: -moz-radial-gradient();
+    font: outline;
+    font-size: 3pc;
+    font-style: normal;
+    
+}
+   body{
+    background-color:rgb(231, 230, 230);
+}
+.secA{
+    font-style: oblique;
+}
+#secB{
+    font-style: oblique;
+}
+ul{
+    list-style-type:square;
+    line-break:inherit;
+    list-style:upper-alpha;
+    lighting-color:lightgoldenrodyellow;
+    word-spacing: 50pt;
+}
+li{
+    display:inline-block;
+}
+a{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration:rgb(14, 15, 15);
+    text-align: initial;
+    color:rgb(71, 12, 71);
+    font-style: italic;
+}
+.button{
+    color: moccasin;
+    background-size: 100;
+    background-color: rgba(42, 44, 156, 0.4);
+    padding:20%;
+}
+.botton:hover{
+    color: sandybrown;
+    background-color:lightslategrey;
+}
+#section{
+background-image:url;
+height: fit-contrnt;
+background-size:cover;
+padding:hover;
+background-repeat:no-repeat;
+width:auto;
+}
+h2{
+    color: rgb(19, 3, 9);
+    background-attachment: fixed;
+    font-style: normal;
+    font-size: 2pc;
+    font-variant: small-caps;
+ }
+ h3{
+     color: rgb(32, 6, 32);
+     background-attachment: fixed;
+     background-image: url();
+     background-size: 5pt;
+     
+ }
+ h4{
+     color: rgb(10, 15, 1);
+     background-size: 4pt;
+     font-style:normal;
+     font-weight:bold;
+     background-position:center;
+     
+ }
+.nigistea{
+    text-align:left;
+}
+.nigi{
+    text-align: center;
+    text-size-adjust:initial;
+    font-size: 10pt;
+}
+    
+
+    
